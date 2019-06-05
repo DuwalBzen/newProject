@@ -91,6 +91,26 @@
         </div>
       </div>
 
+
+<div class="container">
+        <div class="row full-screen align-items-center">
+          <div class="col col-md-12 col-lg-8 col-xl-6 p-80px-tb">
+            <div class="home-text-center theme-after m-50px-t">
+              <h4>Hello, my name is</h4>
+              <h5 class="font-alt">ram Duwal</h5>
+              <p>sjnmfnsdm gdgwsdx</p>
+              <div class="btn-bar">
+                <a href="cv_document/bzen_cv_2019.pdf" class="m-btn-link m-btn-link-white theme-after">Download CV</a>
+              </div> 
+            </div> <!-- home-text-center -->
+          </div> <!-- col -->
+        </div>
+
+      </div><!-- container -->
+      <a href="#aboutus" data-scroll="smooth" class="mouse-icon hidden-sm"><span class="wheel"></span></a>
+    </section>
+
+
       <div class="container">
         <div class="row full-screen align-items-center">
           <div class="col col-md-12 col-lg-8 col-xl-6 p-80px-tb">
